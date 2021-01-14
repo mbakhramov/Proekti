@@ -1,2 +1,2 @@
-# proeki
+# proekti
 Test
